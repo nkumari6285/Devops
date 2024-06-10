@@ -1,3 +1,3 @@
 print "file for testing Jenkins"
-print "file"git
-print "vmdkfdm"git 
+print "file"
+print "vmdkfdm"
